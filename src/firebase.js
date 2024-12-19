@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBrk6dXsqxkLwJTLp-OJ-L_jKhuhXDEI3s",
+  apiKey: "Enter Your Key",
   authDomain: "clone-6b397.firebaseapp.com",
   projectId: "clone-6b397",
   storageBucket: "clone-6b397.firebasestorage.app",
